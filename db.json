@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "ProductName": "Moto G5 Plus",
+      "Quantity": 2,
+      "Price": "Rs 13000"
+    },
+    {
+      "id": 2,
+      "ProductName": "Records Geyser",
+      "Quantity": 3,
+      "Price": "Rs 6000"
+    },
+    {
+      "id": 3,
+      "ProductName": "Dell inspiration",
+      "Quantity": 4,
+      "Price": "Rs 50000"
+    },
+    {
+      "ProductName": "oneplus8",
+      "Quantity": "1",
+      "Price": "50000",
+      "formErrors": {},
+      "id": 4
+    },
+    {
+      "ProductName": "huaweip40pro",
+      "Quantity": "1",
+      "Price": "74000",
+      "errors": {},
+      "id": 22
+    },
+    {
+      "ProductName": "huaweip50pro",
+      "Quantity": "1",
+      "Price": "80000",
+      "errors": {
+        "ProductName": "Cannot be empty",
+        "Quantity": "Cannot be empty",
+        "Price": "Cannot be empty"
+      },
+      "id": 23
+    }
+  ]
+}
